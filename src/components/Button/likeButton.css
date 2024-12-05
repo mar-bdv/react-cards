@@ -1,0 +1,10 @@
+.favorite-button {
+    border: none;
+    cursor: pointer;
+    fill: var(--secondary-color);
+}
+
+
+.favorite-button:hover {
+    fill: var(--hover-color);
+}

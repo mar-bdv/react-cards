@@ -1,0 +1,18 @@
+:root {
+    --main-color: #F9F9F9;
+    --font-size: 16px;
+    --font-family: "Open Sans", sans-serif; 
+    --secondary-color: #2E86AB;
+    --text-color: #333333;
+    --hover-color: #236784;
+    --active-color: #FF6347;
+    --border-radius: 22px;
+    --available-color: #28a745;
+    --border-color: #D1D1E9;
+}
+
+body {
+    margin-top: 170px;
+    background-color: var(--main-color);
+    font-family: var(--font-family);
+}
